@@ -15,7 +15,7 @@ icon: glyphicon-heart
 
 ### 联系我
 
-* email：[yangyuan@a.com](mailto:{{ site.email }})
+* email：[1355521@qq.com](mailto:{{ site.email }})
 * QQ：1355521
 
 ---
