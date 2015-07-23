@@ -10,4 +10,4 @@ categories: android
 
 [Using the Material Theme](https://developer.android.com/training/material/theme.html)
 
-![Android theme]({{ "/images/AndroidThemeColors.png"}})
+<img src="/images/AndroidThemeColors.png" width = "300" alt="Android theme"/>

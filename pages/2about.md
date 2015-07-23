@@ -13,6 +13,11 @@ icon: glyphicon-heart
 
 ---
 
+### 本站二维码
+ <img src="/images/qrcode.png" width = "200" height = "200" alt="二维码"/>
+
+---
+
 ### 联系我
 
 * email：[1355521@qq.com](mailto:{{ site.email }})
