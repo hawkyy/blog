@@ -3,7 +3,6 @@ layout: post
 title:  "Linux下抓WiFi包"
 date:   2015-05-21 14:06:05
 categories: Linux
-excerpt: 
 ---
 
 * content
