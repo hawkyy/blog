@@ -7,12 +7,16 @@ icon: glyphicon-heart
 
 ### 关于我
 
-计算机硕士，老码农一枚，全栈攻城狮。
+计算机硕士，老码农一枚，架构师，全栈攻城狮。
 
+* 架构设计
+  * 主持设计多个完整产品
+  * 参与某运营商标准制定
+  * 主持设计国内规模最大的商业WiFi广告系统，也许是最大之一:-)
 * 操作系统
   * Linux   
     开发多个应用，基于Linux开发多个完整产品。  
-    从Linux 2.0开始分析阅读内核源代码，开发过多个Kernel Module
+    从Linux 2.0开始分析阅读内核源代码，开发过多个Kernel Module  
     开发过基于Linux的多款嵌入式产品，具体芯片或者厂家包括Intel IXP、Motorola Coldfire、Grain Media、Ralink、MTK、arca、Atheros、Marvell
   * Windows  
     开发多款产品    
@@ -21,15 +25,16 @@ icon: glyphicon-heart
     开发iOS App    
   * Android   
     开发Android App
+  * 一些冷门系统  
+    如pSOS
   * 一些特定系统  
-    如Quacomm的4004
-    
+    如Quacomm的4004    
 * 编程语言
   * C（基础必备）
   * C++（曾经有段时间痴迷）
   * Java（目前主要用于开发Android，也许将来会用来开发服务器）
   * Objective-C（苹果家的，啥都不说了，老当益壮，以后会过度到Swift吧）
-  * Swift（设计的的确相当好，吸收了很多其他语言的优点，理论和工程时间的良好结合）
+  * Swift（设计得相当好，吸收了很多其他语言的优点，理论和工程实践的良好结合）
   * PHP（糙快猛的Web开发）
   * SQL（这算编程语言吗?）
   * Javascript（Web开发必备）
@@ -42,11 +47,8 @@ icon: glyphicon-heart
   * PostgreSQL
   * SQLite
   * SQL Server
+  * 若干NoSQL数据库
   * 若干老古董（很多人不知道FoxPro吧？我就不说dBase、Informix了）
-* 架构设计
-  * 主持设计多个完整产品
-  * 参与某运营商标准制定
-  * 主持设计并主要实现国内规模最大的商业WiFi广告系统，也许是最大之一:-)
 
 ---
 
