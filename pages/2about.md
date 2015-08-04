@@ -61,10 +61,9 @@ icon: glyphicon-heart
 
 ---
 
-### 联系我
+### 微信联系我
 
-* email：[1355521@qq.com](mailto:{{ site.email }})
-* QQ：1355521
+ <img src="/images/wechat.png" width = "200" height = "200" alt="二维码"/>
 
 ---
 
