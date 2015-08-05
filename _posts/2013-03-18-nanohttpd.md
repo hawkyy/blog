@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Android使用nanohttpd实现手机上的web服务器"
-date:   2014-03-18 14:06:05
-categories: android
+date:   2013-03-18 14:06:05
+categories: Android
 ---
 
 * content

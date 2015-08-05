@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Android启动页面"
-date:   2014-02-15 14:06:05
-categories: android
+date:   2013-02-15 14:06:05
+categories: Android
 ---
 
 * content

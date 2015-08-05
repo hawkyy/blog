@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Android的Adapter和AdapterView"
-date:   2014-05-18 14:06:05
-categories: android
+date:   2013-05-18 14:06:05
+categories: Android
 ---
 
 * content

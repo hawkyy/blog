@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Android Butterknife框架"
-date:   2014-08-21 14:06:05
-categories: android
+date:   2013-08-21 14:06:05
+categories: Android
 ---
 
 * content

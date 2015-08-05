@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iOS下使用C++编译出来的静态库"
-date:   2015-03-23 14:06:05
+date:   2014-10-23 14:06:05
 categories: iOS
 ---
 

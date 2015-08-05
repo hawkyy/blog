@@ -2,7 +2,7 @@
 layout: post
 title:  "Android Activity与Fragment生命周期"
 date:   2013-04-05 14:06:05
-categories: android
+categories: Android
 ---
 
 * content

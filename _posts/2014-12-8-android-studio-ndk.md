@@ -2,7 +2,7 @@
 layout: post
 title:  "Android Studio工程中ndk项目处理"
 date:   2014-12-8 14:06:05
-categories: android
+categories: Android
 ---
 
 * content

@@ -2,7 +2,7 @@
 layout: post
 title:  "Android使用tabhost实现类似微信tab界面"
 date:   2013-06-09 14:06:05
-categories: android
+categories: Android
 ---
 
 * content

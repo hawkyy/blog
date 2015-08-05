@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Android theme"
-date:   2015-05-21 14:06:05
-categories: android
+date:   2014-05-21 14:06:05
+categories: Android
 ---
 
 * content

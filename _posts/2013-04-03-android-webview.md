@@ -2,7 +2,7 @@
 layout: post
 title:  "Android WebView及web中调用Java"
 date:   2013-06-09 14:06:05
-categories: android
+categories: Android
 ---
 
 * content

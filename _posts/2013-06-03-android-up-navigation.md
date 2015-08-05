@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "为Android应用提供up navigation"
-date:   2014-05-18 14:06:05
-categories: android
+date:   2013-05-18 14:06:05
+categories: Android
 ---
 
 * content

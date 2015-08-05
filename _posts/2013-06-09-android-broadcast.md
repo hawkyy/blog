@@ -2,7 +2,7 @@
 layout: post
 title:  "Android Broadcast"
 date:   2013-06-09 14:06:05
-categories: android
+categories: Android
 ---
 
 * content
