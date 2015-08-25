@@ -57,13 +57,13 @@ icon: glyphicon-heart
 ---
 
 ### 本站二维码
- <img src="/images/qrcode.png" width = "200" height = "200" alt="二维码"/>
+ <img src="/images/qrcode.png" width = "150" height = "150" alt="二维码"/>
 
 ---
 
-### 微信联系我
+### 联系我
 
- <img src="/images/wechat.png" width = "200" height = "200" alt="二维码"/>
+ <a href="mailto:{{ site.email }}"><span class="glyphicon glyphicon-envelope"></span> {{ site.email }}</a>
 
 ---
 
